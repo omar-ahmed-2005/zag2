@@ -1,0 +1,7 @@
+export const defaultProducts=[
+{id:1,title:"Laptop Pro",category:"Computers",price:900,description:"Powerful laptop for work, study, and everyday productivity.",image:"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"},
+{id:2,title:"Wireless Headphones",category:"Electronics",price:120,description:"Comfortable wireless headphones with immersive sound.",image:"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"},
+{id:3,title:"Smart Watch",category:"Accessories",price:200,description:"A modern smartwatch for notifications, fitness, and daily life.",image:"https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"},
+{id:4,title:"Digital Camera",category:"Photography",price:650,description:"Capture sharp photos and memorable moments with ease.",image:"https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80"},
+{id:5,title:"Mechanical Keyboard",category:"Accessories",price:95,description:"Tactile mechanical keyboard designed for fast and comfortable typing.",image:"https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"},
+{id:6,title:"Smartphone X",category:"Mobile",price:750,description:"Sleek smartphone with a bright display and powerful performance.",image:"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"}];

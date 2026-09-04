@@ -1,0 +1,13 @@
+Implemented:
+- Home and Products pages
+- react-router-dom with shared Layout + Outlet
+- Navbar with NavLink
+- Products in one useState array
+- Reusable ProductCard rendered with map and unique key
+- Props
+- ProductForm for adding products
+- Delete without reload
+- localStorage persistence
+- Welcome message once per browser session using setTimeout
+- Timer cleanup
+- No backend/API
